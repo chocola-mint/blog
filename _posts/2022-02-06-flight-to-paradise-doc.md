@@ -52,6 +52,7 @@ I then went back to add tutorial on how to play the game. Since the design was s
 
 With all the work done, I went to sleep.
 
+## Day 2
 
 ### Hour +21 ~ +24
 
@@ -64,6 +65,8 @@ Around this point, I have already streamlined the development process, being abl
 ### Hour +34 ~ +38
 
 For the night, I added a second turret type and kept expanding the game at a breakneck pace. I barely needed to write any code, and my progress was amazing. By the end of the night, I had the gameplay finished, as well as a time and score system with HUD shown on the screen.
+
+## Day 3
 
 ### Hour +45 ~ +48
 
