@@ -12,9 +12,9 @@ tags:
 
 This would be my fourth game jam. ~~We do not talk about what happened in the third one.~~
 
-It was the end of the semester, two weeks into the jam (right after I was done with the finals). I saw an artist (Callie Calico) going around with her concept art of a Kirby-like Touhou-themed platformer, and I decided to make her game a reality. I'm partly impressed by her passion, but the more practical side of this would be that I needed a "proper" platformer after what had happened with [Lucid Dive](/gamedev/lucid-dive-postmortem/).
+It was the end of the semester, two weeks into the jam (right after I was done with the finals). I saw an artist (Callie Calico) going around with her concept art of a Kirby-like Touhou-themed platformer, and I decided to make her game a reality. I'm partly impressed by her passion, but the more practical side of this would be that I needed a "proper" platformer after what had happened with [Lucid Dive](/blog/gamedev/lucid-dive-postmortem/).
 
-![Tiny Trouble Concept Art](/assets/images/tiny_trouble_concept.png)
+![Tiny Trouble Concept Art](/blog/assets/images/tiny_trouble_concept.png)
 
 It soon became clear to me that my partner hadn't actually planned properly for what was supposed to be an LGBT-centered game jam (e.g. actual *story*), and that did end up hurting the ratings of the game. The only LGBT-ish idea in the game is a rather-obscure feature where you can have the main characters kiss to feed over-heals to each other.
 
@@ -24,7 +24,7 @@ Aside from this sour spot, the development was actually a smooth experience, des
 
 While obviously, with just one programmer, there's no synchronization issues to worry about, there was the worry of the artist not being able to deliver assets in time. I like to think that frequent implementation updates from my side helped with the team's morale, encouraging her to put more hours on production.
 
-![Tiny Trouble Bird Implementation Demo](/assets/clips/tiny_trouble_bird_implementation.mp4)
+![Tiny Trouble Bird Implementation Demo](/blog/assets/clips/tiny_trouble_bird_implementation.mp4)
 
 I like to believe that us developers are the heart of a team. Although we often do dirty plumbing work that aren't always visible, we are the source of motivation for other parts of the team (e.g. artists), and by providing implementation results of game features frequently, they would be more motivated to push the final product to greater heights.
 
