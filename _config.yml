@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "CHM"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "A game developer wannabe. Writes about game design, development, software enginering, and sometimes pedagogy."
   links:
     - label: "Website"
