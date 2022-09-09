@@ -24,7 +24,7 @@ Aside from this sour spot, the development was actually a smooth experience, des
 
 While obviously, with just one programmer, there's no synchronization issues to worry about, there was the worry of the artist not being able to deliver assets in time. I like to think that frequent implementation updates from my side helped with the team's morale, encouraging her to put more hours on production.
 
-![Tiny Trouble Bird Implementation Demo](/blog/assets/clips/tiny_trouble_bird_implementation.mp4)
+![Tiny Trouble Crow Implementation Demo](/blog/assets/clips/tiny_trouble_crow_implementation.gif)
 
 I like to believe that us developers are the heart of a team. Although we often do dirty plumbing work that aren't always visible, we are the source of motivation for other parts of the team (e.g. artists), and by providing implementation results of game features frequently, they would be more motivated to push the final product to greater heights.
 
